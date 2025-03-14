@@ -34,7 +34,7 @@ Ensure you have the following installed before running the project:
 #### Step 1: Clone the Repository
 Open a terminal and run:  
 ```
-git clone https://github.com/LokamHarika/ANPR-ACTT-Smart-Traffic-Management
+git clone https://github.com/LokamHarika/ANPR-ACTT-Smart-Traffic-Management.git
 ```  
 
 #### Step 2: Backend Setup
