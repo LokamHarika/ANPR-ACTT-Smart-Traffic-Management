@@ -41,8 +41,7 @@ git clone https://github.com/LokamHarika/ANPR-ACTT-Smart-Traffic-Management.git
 Navigate to the project directory and start the backend:  
 ```
 python app.py
-```  
-Alternatively, you can run app.py using the "Run Python File" option in your IDE.  
+``` 
 
 #### Step 3: Frontend Setup
 Open a new terminal and navigate to the frontend directory:  
@@ -51,7 +50,6 @@ cd FrontEnd
 npm install  # Install dependencies
 npm run dev  # Start the frontend server
 ```  
-This will launch the React-based user interface, and a local host link will appear in the terminal. Click the link to open the web app.  
 
 #### Step 4: Login to the System
 When the login page appears, enter the credentials:  
